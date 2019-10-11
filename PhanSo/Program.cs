@@ -136,6 +136,7 @@ namespace PhanSo
             Console.WriteLine("Bam 1 de cong phan so[a/b]");
             Console.WriteLine("Bam 2 de tru phan so[a/b]");
             Console.WriteLine("Bam 3 Exit.");
+            Console.WriteLine("Hello World");
             int choose = int.Parse(Console.ReadLine());
             switch (choose)
             {
